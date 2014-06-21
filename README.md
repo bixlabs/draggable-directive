@@ -1,4 +1,4 @@
 draggable-directive
 ===================
 
-Anguloar js draggable directive 
+Angular js draggable directive 
